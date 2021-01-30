@@ -17,3 +17,7 @@ function isPrime(n){
     
     return prime;
 }
+
+module.exports = {
+    isPrime:isPrime
+}
